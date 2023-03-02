@@ -16,7 +16,6 @@ function App() {
             <li><Link to="/products">Termékek</Link></li>
             <li><Link to="/cart">Kosár</Link></li>
             <li><Link to="/contact">Kapcsolat</Link></li>
-
           </ul>
         </nav>
       </header>

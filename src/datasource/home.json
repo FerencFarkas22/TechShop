@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id":1,
+            "title" :"Notebook akciók",
+            "slug": "notebook-akciok-2022-11-19",
+            "date": "2022.11.19",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nemo vel numquam expedita consequuntur eius.",
+            "img": ""
+        },
+        {
+            "id":2,
+            "title" :"Telefon akciók",
+            "slug": "telefon-akciok-2022-12-19",
+            "date": "2022.12.19",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nemo vel numquam expedita consequuntur eius.",
+            "img": ""
+        },
+        {
+            "id":3,
+            "title" :"Tv akciók",
+            "slug": "tv-akciok-2022-10-19",
+            "date": "2022.10.19",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nemo vel numquam expedita consequuntur eius.",
+            "img": ""
+        },
+        {
+            "id":4,
+            "title" :"Játékkonzol akciók",
+            "slug": "jatekkonzol-akciok-2022-09-19",
+            "date": "2022.09.19",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nemo vel numquam expedita consequuntur eius.",
+            "img": ""
+        }
+    ]
+}
