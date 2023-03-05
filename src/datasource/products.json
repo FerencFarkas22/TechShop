@@ -1,0 +1,79 @@
+{
+    "data": [
+        {
+            "id":1,
+            "name": "Notebook",
+            "visible": true,
+            "products": [
+                {
+                    "id":1,
+                    "brand":"Apple Macbook Pro",
+                    "img": "https://via.placeholder.com/200x200",
+                    "price": 549000,
+                    "description": "daskdfapdof fdpjfj dspofjjso fdpsdfj spof jsjfop sjf poejg sopgj sop g"
+                }
+            ]
+
+        },
+        {
+            "id":2,
+            "name": "Telefonok",
+            "visible": true,
+            "products": [{
+                "id":2,
+                "brand":"Asus Rog",
+                "img": "https://via.placeholder.com/200x200",
+                "price": 499000,
+                "description": "daskdfapdof fdpjfj dspofjjso fdpsdfj spof jsjfop sjf poejg sopgj sop g"
+            }]
+        },
+        {
+            "id":3,
+            "name": "Konzolok",
+            "visible": true,
+            "products": [{
+                "id":1,
+                "brand":"Lenovo Legion 530Y",
+                "img": "https://via.placeholder.com/200x200",
+                "price": 559000,
+                "description": "daskdfapdof fdpjfj dspofjjso fdpsdfj spof jsjfop sjf poejg sopgj sop g"
+            }]
+        },
+        {
+            "id":4,
+            "name": "Televíziók",
+            "visible": true,
+            "products": [{
+                "id":1,
+                "brand":"Apple Macbook ",
+                "img": "https://via.placeholder.com/200x200",
+                "price": 399900,
+                "description": "daskdfapdof fdpjfj dspofjjso fdpsdfj spof jsjfop sjf poejg sopgj sop g"
+            }]
+        },
+        {
+            "id":5,
+            "name": "Háztartási gépek",
+            "visible": true,
+            "products": [{
+                "id":1,
+                "brand":"Toshiba ",
+                "img": "https://via.placeholder.com/200x200",
+                "price": 199900,
+                "description": "daskdfapdof fdpjfj dspofjjso fdpsdfj spof jsjfop sjf poejg sopgj sop g"
+            }]
+        },
+        {
+            "id":6,
+            "name": "Kuponok",
+            "visible": false,
+            "products": [{
+                "id":1,
+                "brand":"Best laptop",
+                "img": "https://via.placeholder.com/200x200",
+                "price": 999000,
+                "description": "daskdfapdof fdpjfj dspofjjso fdpsdfj spof jsjfop sjf poejg sopgj sop g"
+            }]
+        }
+    ]
+}

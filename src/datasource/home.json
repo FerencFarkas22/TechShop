@@ -5,6 +5,7 @@
             "title" :"Notebook akciók",
             "slug": "notebook-akciok-2022-11-19",
             "date": "2022.11.19",
+            "image":"https://via.placeholder.com/350x150",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nemo vel numquam expedita consequuntur eius.",
             "img": ""
         },
@@ -13,6 +14,7 @@
             "title" :"Telefon akciók",
             "slug": "telefon-akciok-2022-12-19",
             "date": "2022.12.19",
+            "image":"https://via.placeholder.com/350x150",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nemo vel numquam expedita consequuntur eius.",
             "img": ""
         },
@@ -21,6 +23,7 @@
             "title" :"Tv akciók",
             "slug": "tv-akciok-2022-10-19",
             "date": "2022.10.19",
+            "image":"https://via.placeholder.com/350x150",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nemo vel numquam expedita consequuntur eius.",
             "img": ""
         },
@@ -29,6 +32,7 @@
             "title" :"Játékkonzol akciók",
             "slug": "jatekkonzol-akciok-2022-09-19",
             "date": "2022.09.19",
+            "image":"https://via.placeholder.com/350x150",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nemo vel numquam expedita consequuntur eius.",
             "img": ""
         }
