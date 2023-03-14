@@ -11,6 +11,13 @@
                     "img": "https://via.placeholder.com/200x200",
                     "price": 549000,
                     "description": "daskdfapdof fdpjfj dspofjjso fdpsdfj spof jsjfop sjf poejg sopgj sop g"
+                },
+                {
+                    "id":1,
+                    "brand":"Lenovo Legion 530Y",
+                    "img": "https://via.placeholder.com/200x200",
+                    "price": 500000,
+                    "description": "daskdfapdof fdpjfj dspofjjso fdpsdfj spof jsjfop sjf poejg sopgj sop g"
                 }
             ]
 

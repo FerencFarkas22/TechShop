@@ -15,7 +15,7 @@ function App() {
       <header>
         <nav>
           <ul>
-            <li><Link to="/">Ke zdőlap</Link></li>
+            <li><Link to="/">Kezdőlap</Link></li>
             <li><Link to="/products">Termékek</Link></li>
             <li><Link to="/cart">Kosár</Link></li>
           </ul>
